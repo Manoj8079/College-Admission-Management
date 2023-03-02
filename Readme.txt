@@ -12,5 +12,5 @@ Credential for admin panel :
 username : admin
 Password : Test@123
 Credential for user panel :
-username : test1@gmail.com or  1123325444
+username : test1@gmail.com
 Password : Test@123
